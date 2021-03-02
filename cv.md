@@ -14,3 +14,24 @@ My main goal is to master a new demanded profession, in particular web developme
 - HTML
 - CSS
 - JS (just the basics)
+
+## Code
+
+```
+const func = (num) => {
+  if (num > 0) {
+    return num - 1;
+  }
+  return num + 1;
+};
+```
+
+## Experience
+
+## Education
+
+Courses at html academy.
+
+## English
+
+At the moment I am actively learning the language. Proficiency level A1-A2
