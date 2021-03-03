@@ -1,0 +1,25 @@
+.cv-page {
+  margin: 0 auto;
+  max-width: 1024px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.header {
+  background-color: #4d4d4f;
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+}
+
+.avatar {
+  height: 250px;
+}
+
+a {
+  text-decoration: none;
+  color: snow;
+}
+
+main {
+  background-color: #e9eaec;
+}
