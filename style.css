@@ -25,11 +25,11 @@ h1 {
   margin: 22px 100px 0px 0;
 }
 
-.contact-title {
+.contact__title {
   margin-left: 42px;
 }
 
-.contact-item {
+.contact__item {
   margin-top: 15px;
 }
 
@@ -42,12 +42,34 @@ main {
   background-color: #e9eaec;
 }
 
+section {
+  margin-left: 15px;
+}
+
+.title {
+  font-size: 36px;
+  color: #4d4d4f;
+}
+
 .footer {
   display: flex;
   justify-content: space-between;
-  background-color: #4d4d4f;
+  background-color: #e9eaec;
+  height: 130px;
 }
 
 .logo {
-  height: 50px;
+  height: 60px;
+  margin: 32px 0 0 40px;
+}
+
+.footer__year {
+  font-size: 35px;
+  margin: 80px 55px 0 0;
+  color: #4d4d4f;
+}
+
+.footer__git {
+  font-size: 30px;
+  margin: 50px 58px 0 0;
 }
