@@ -1,1 +1,1 @@
-https://VSzet.github.io/rsschool-cv/cv
+https://VSzet.github.io/rsschool-cv/
