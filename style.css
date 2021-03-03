@@ -15,11 +15,39 @@
   height: 250px;
 }
 
+h1 {
+  font-size: 48px;
+  margin-right: 75px;
+  margin-top: 50px;
+}
+
+.contact {
+  margin: 22px 100px 0px 0;
+}
+
+.contact-title {
+  margin-left: 42px;
+}
+
+.contact-item {
+  margin-top: 15px;
+}
+
 a {
   text-decoration: none;
-  color: snow;
+  color: coral;
 }
 
 main {
   background-color: #e9eaec;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  background-color: #4d4d4f;
+}
+
+.logo {
+  height: 50px;
 }
